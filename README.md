@@ -5,9 +5,13 @@ This project is a simple memorization game developed using HTML, CSS, and JavaSc
 # Gameplay
 
 Start the Game: The game begins by the player pressing any key.
+
 Sequence Generation: In each round, one of the four different colored squares will produce a sound.
+
 Player's Task: The player needs to press the squares in the same sequence as they made sounds.
+
 Progression: With each round, the sequence gets longer, adding one more square to the existing sequence.
+
 End Game: The game continues until the player makes a mistake, after which a 'You Lose' animation is displayed.
 
 # Motivation
