@@ -1,7 +1,5 @@
 # simon-game
 
-# Introduction
-
 This project is a simple memorization game developed using HTML, CSS, and JavaScript. The core of the game revolves around sound cues and color recognition, challenging players to recall and repeat sequences of colored squares.
 
 # Gameplay
