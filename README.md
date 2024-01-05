@@ -21,10 +21,12 @@ The primary motivation behind this project was to delve into the world of web de
 # Outcomes
 
 Successful Completion: The project was successfully completed, achieving the set goals.
+
 Learning Curve: Through this project, I gained a solid understanding and practical experience in key HTML and CSS basics.
 
 # How To Run
 
 Clone the repository to your local machine.
+
 Open the index.html file in a web browser to start the game.
 
